@@ -1,1 +1,2 @@
 # smile
+just smile
